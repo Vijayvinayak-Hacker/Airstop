@@ -24,6 +24,7 @@ Airstop is a Python-based wireless security testing utility that provides a simp
 ## Requirements
 
 * Python 3.8+
+* Windows 10/11(For windows version python kit not needed)
 * Linux (Debian/Ubuntu/Kali recommended)
 * sudo privileges
 * Wireless adapter capable of monitor mode
